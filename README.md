@@ -1,11 +1,6 @@
-# co6d6447980497dd5775ab78d
+# Simple Poetic Phease Generator
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
+### Create Al-generated witty and satirical poetic phrases about favorite activities and places to Visit.
 
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
